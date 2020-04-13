@@ -1,0 +1,17 @@
+
+
+
+[监控统计]
+
+    http://localhost:2040/druid
+
+[swagger2]
+
+    http://localhost:2040/swagger-ui.html
+
+[打jar包]
+
+    1.
+    2.
+
+[install pom配置到本地仓库]
